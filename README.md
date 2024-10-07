@@ -4,7 +4,9 @@ The Coffee Sales Project is a comprehensive analysis of sales data, meticulously
 0. First look of data : the raw dataset of order sheet before any editing
 
 1. Orders Sheet:Central repository of detailed customer orders, including product names, quantities, and sales amounts.
+
 Key Functions:
+
 XLOOKUP & INDEX/MATCH: These functions were employed to fill missing data, such as product names and other order details, by cross-referencing related sheets.
 Data Enhancements: Conditional formatting was applied to highlight important data points, such as high-value orders and missing values.
 
